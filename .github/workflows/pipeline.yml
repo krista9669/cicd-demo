@@ -1,4 +1,4 @@
-name: CI/CD Demo
+name: CI/CD demo
 on: push 
 
 jobs:  
